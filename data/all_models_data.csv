@@ -1,4 +1,4 @@
-city,brand,model,href,price,year,mileage,body_type,colour,engine_info,credit_per_month,transmission,drive,hand_drive,condition,owners_num,doc_unique
+city,brand,model,href,price,year,mileage,body_type,colour,engine_info,annual_car_tax,transmission,drive,hand_drive,condition,owners_num,doc_unique
 kazan,kia,rio,https://auto.ru/cars/used/sale/kia/rio/1044366307-aa521a/,500 000 ₽,2015,60 500 км,седан,серебристый,1.6 л / 123 л.с. / Бензин,3 444 ₽ / год,механическая,передний,Левый,Не требует ремонта,2 владельца,Оригинал
 kazan,kia,rio,https://auto.ru/cars/used/sale/kia/rio/1070379985-3800a3a2/,405 000 ₽,2012,130 000 км,седан,чёрный,1.6 л / 123 л.с. / Бензин,4 305 ₽ / год,механическая,передний,Левый,Не требует ремонта,2 владельца,Оригинал
 kazan,kia,rio,https://auto.ru/cars/used/sale/kia/rio/1082430894-f5ce3/,630 000 ₽,2017,67 000 км,седан,белый,1.6 л / 123 л.с. / Бензин,3 690 ₽ / год,механическая,передний,Левый,Не требует ремонта,1 владелец,Оригинал
