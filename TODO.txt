@@ -1,6 +1,6 @@
-1.  Посмотри зависимость между ежегодным налогом и мощность 
-автомобиля и попарну зависимость этих признаков от цены + 
-2. Оценка p value для коэффициентов корреляции
-3. Из линейной модели по очереди убирай признаки и смотри за изменением R^2
-4. Click house, Tableau, PostgressSql
-5. Pandas Profile Report + 
+1. Lock at the correlation between annual car tax and price and correlation between annual car tax and horsepower. 
+Maybe, it is multicollineat features + 
+2. ADD-DELL method for features. Use R2 score
+3. Pandas Profile Report + 
+4. Use Cross-Validation for CatBoost
+5. Create database on PostgreSQL
